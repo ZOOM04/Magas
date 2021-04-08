@@ -1,0 +1,58 @@
+C:\Users\Пользователь\source\repos\MagasBook\bin\Debug\MagasBook.exe.config
+C:\Users\Пользователь\source\repos\MagasBook\bin\Debug\MagasBook.exe
+C:\Users\Пользователь\source\repos\MagasBook\bin\Debug\MagasBook.pdb
+C:\Users\Пользователь\source\repos\MagasBook\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\source\repos\MagasBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\source\repos\MagasBook\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\source\repos\MagasBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\source\repos\MagasBook\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook_Content.g.cs
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook.g.resources
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook.exe
+C:\Users\Пользователь\source\repos\MagasBook\obj\Debug\MagasBook.pdb
+C:\Users\salik\Desktop\MagasBook\bin\Debug\MagasBook.exe.config
+C:\Users\salik\Desktop\MagasBook\bin\Debug\MagasBook.exe
+C:\Users\salik\Desktop\MagasBook\bin\Debug\MagasBook.pdb
+C:\Users\salik\Desktop\MagasBook\bin\Debug\EntityFramework.dll
+C:\Users\salik\Desktop\MagasBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salik\Desktop\MagasBook\bin\Debug\EntityFramework.xml
+C:\Users\salik\Desktop\MagasBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salik\Desktop\MagasBook\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook.csprojAssemblyReference.cache
+C:\Users\salik\Desktop\MagasBook\obj\Debug\App.g.cs
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook_Content.g.cs
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook_MarkupCompile.cache
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook_MarkupCompile.lref
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook.g.resources
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook.Properties.Resources.resources
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook.csproj.GenerateResource.cache
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook.csproj.CoreCompileInputs.cache
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook.csproj.CopyComplete
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook.exe
+C:\Users\salik\Desktop\MagasBook\obj\Debug\MagasBook.pdb
+C:\Users\salik\Desktop\MagasBook\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\salik\Desktop\MagasBook\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\salik\Desktop\MagasBook\obj\Debug\Views\Windows\Page1.g.cs
+C:\Users\salik\Desktop\MagasBook\obj\Debug\Views\Windows\Window1.g.cs
+C:\Users\salik\Desktop\MagasBook\obj\Debug\Views\Windows\Page1.baml
+C:\Users\salik\Desktop\MagasBook\obj\Debug\Views\Windows\Window1.baml
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\MagasBook.csprojAssemblyReference.cache
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\Views\Page\Page2.g.cs
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\Views\Page\Page1.g.cs
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\App.g.cs
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\MagasBook_Content.g.cs
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\MagasBook_MarkupCompile.cache
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\MagasBook_MarkupCompile.lref
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\MagasBook.exe
+C:\Users\salik\Desktop\Новая папка (2)\TEST\MagasBook\obj\Debug\MagasBook.pdb

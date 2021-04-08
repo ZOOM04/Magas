@@ -1,0 +1,35 @@
+﻿<Page x:Class="MagasBook.Views.Page.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MagasBook.Views.Page"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page2">
+
+    <Grid>
+        <Image Source="/Resources/_normal.jpg" 
+               Height="500"/>
+
+        <Button 
+                Margin="0,200,0,0"
+                Width="220"
+                Height="35"
+                Content="Перейти к покупке"
+                FontSize="15"
+                Background="MistyRose"
+                Click="BtnGo_Click" />
+        <StackPanel VerticalAlignment="Top"
+                    Margin="0,70,0,0"
+                    Width="400"
+                    Height="90">
+            <TextBlock Text="MagasBook"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       FontSize="80"
+                       FontFamily="Monotype Corsiva"
+                       Foreground="MistyRose"/>
+        </StackPanel>
+    </Grid>
+</Page>
